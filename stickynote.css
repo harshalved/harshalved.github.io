@@ -1,0 +1,74 @@
+
+.note {
+    width: 205px;
+    height: 225px;
+    box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    float: left;
+    margin: 10px;
+    border: 1px solid rgba(0,0,0,.25);
+}
+ 
+.sticky1 {
+    transform: rotate(-3.5deg);
+    -webkit-transform: rotate(-3.5deg);
+    -moz-transform: rotate(-3.5deg);
+    background-color: #CBFAFA;
+}
+
+.sticky2{
+    transform: rotate(0.5deg);
+    -webkit-transform: rotate(0.5deg);
+    -moz-transform: rotate(0.5deg);
+    background-color: pink;
+}
+
+.sticky3{
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    background-color: lightgreen;
+}
+
+.sticky4{
+    transform: rotate(-2deg);
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    background-color: skyblue;
+}
+
+.sticky4{
+    transform: rotate(-2deg);
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    background-color: skyblue;
+}
+
+.sticky5{
+    transform: rotate(-1deg);
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    background-color: lightyellow;
+}
+
+.sticky6{
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    background-color: #CBFAFA;
+}
+
+.sticky7{
+    transform: rotate(-2deg);
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);   
+    background-color: skyblue;
+}
+
+.sticky8{
+    transform: rotate(0deg);
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(3deg);
+    background-color: lightgreen;
+}
